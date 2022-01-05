@@ -1,0 +1,47 @@
+# JavaScript (JS)
+These items are the basic content of JS that you should study first
+
+# Basic
+- [JS Introduction](https://www.w3schools.com/js/js_intro.asp)
+- [JS Where To](https://www.w3schools.com/js/js_whereto.asp)
+- [JS Output](https://www.w3schools.com/js/js_output.asp)
+- [JS Statements](https://www.w3schools.com/js/js_statements.asp)
+- [JS Syntax](https://www.w3schools.com/js/js_syntax.asp)
+- [JS Comments](https://www.w3schools.com/js/js_comments.asp)
+- [JS Variables](https://www.w3schools.com/js/js_variables.asp)
+- [JS Operators](https://www.w3schools.com/js/js_operators.asp)
+- [JS Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
+- [JS Assignment](https://www.w3schools.com/js/js_assignment.asp)
+- [JS Data Types](https://www.w3schools.com/js/js_assignment.asp)
+- [JS Functions](https://www.w3schools.com/js/js_functions.asp)
+- [JS Objects](https://www.w3schools.com/js/js_objects.asp)
+- [JS Events](https://www.w3schools.com/js/js_events.asp)
+- [JS String](https://www.w3schools.com/js/js_strings.asp)
+- [JS Number](https://www.w3schools.com/js/js_numbers.asp)
+- [JS Array](https://www.w3schools.com/js/js_arrays.asp)
+- [JS Date](https://www.w3schools.com/js/js_dates.asp)
+- [JS Boolean](https://www.w3schools.com/js/js_booleans.asp)
+- [JS Comparation](https://www.w3schools.com/js/js_comparisons.asp)
+- [JS Condition (if - else)](https://www.w3schools.com/js/js_if_else.asp)
+- [JS Ternary Operator ? :](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [JS switch - case](https://www.w3schools.com/js/js_switch.asp)
+- [JS Loop: for, for in, for of, forEach](https://www.w3schools.com/js/js_loop_for.asp)
+- [JS Loop: while, do while](https://www.w3schools.com/js/js_loop_while.asp)
+- [JS Break](https://www.w3schools.com/js/js_break.asp)
+- [JavaScript Errors - Throw and Try to Catch - Finally](https://www.w3schools.com/js/js_errors.asp)
+- [JS Scope](https://www.w3schools.com/js/js_scope.asp)
+- [JS Let](https://www.w3schools.com/js/js_let.asp)
+- [JS Const](https://www.w3schools.com/js/js_const.asp)
+- [JS Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
+- [JS Debugging](https://www.w3schools.com/js/js_debugging.asp)
+- [JS Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
+- [JS Asynchronity](https://www.w3schools.com/js/js_asynchronous.asp)
+  
+
+# References
+- Want to a pro Web developer? check the [road map](https://www.w3schools.com/whatis/default.asp) should study		
+- [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
+- [Learn modern JavaScript](https://scrimba.com/g/ges6)
+- [Javascript shorthand tecniques](https://www.sitepoint.com/shorthand-javascript-techniques/)
+
+[Previous](./css.md) | [Next](../../exercises/tut1.md)
